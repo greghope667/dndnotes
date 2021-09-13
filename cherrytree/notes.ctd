@@ -24,7 +24,7 @@ Possible the cause of the death in the area.
 In flashback:
 Takes life, pulls away into other (astral) realm, potentially opening doorway for something to return?</rich_text>
     </node>
-    <node name="Illara's Amulet" unique_id="18" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628017950" ts_lastsave="1628018992">
+    <node name="Illaras Amulet" unique_id="18" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628017950" ts_lastsave="1631557866">
       <rich_text>Found on </rich_text>
       <rich_text link="node 6">Illara</rich_text>
       <rich_text> when we found her </rich_text>
@@ -240,7 +240,7 @@ He is due to be taken to </rich_text>
       <rich_text link="node 13">Zoscara</rich_text>
       <rich_text> to face justice.</rich_text>
     </node>
-    <node name="A Captive's Request" unique_id="15" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628004074" ts_lastsave="1630610121">
+    <node name="A Captives Request" unique_id="15" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628004074" ts_lastsave="1631557881">
       <rich_text>Ches 19, Night, Arinsguard
 
 We questioned </rich_text>
