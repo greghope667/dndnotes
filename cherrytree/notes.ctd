@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="Campaign Notes" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626976846" ts_lastsave="1631554877">
+    <rich_text>Party:
+Adam - Bonri
+Fez - Icarus
+Greg - Jordrik
+Jessie - Damiano
+</rich_text>
+  </node>
+  <node name="Items" unique_id="16" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628005515" ts_lastsave="1628017950">
+    <node name="Magical Stone" unique_id="17" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628017713" ts_lastsave="1628020368">
+      <rich_text>Found </rich_text>
+      <rich_text link="node 14">near Blackwater Lake</rich_text>
+      <rich_text>.
+
+Us touching it caused the spirit to attack us,
+
+Is a kind of battery, drains life from stuff nearby. Actively and passively.
+
+Possible the cause of the death in the area.
+
+In flashback:
+Takes life, pulls away into other (astral) realm, potentially opening doorway for something to return?</rich_text>
+    </node>
+    <node name="Illara's Amulet" unique_id="18" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628017950" ts_lastsave="1628018992">
+      <rich_text>Found on </rich_text>
+      <rich_text link="node 6">Illara</rich_text>
+      <rich_text> when we found her </rich_text>
+      <rich_text link="node 14">near Blackwater Lake</rich_text>
+      <rich_text>.
+
+When she wore the neckless, she looked fine and seemed herself. When she took it of, she became a mindless zombie.
+
+Bonri wore the neckless, he took damage and was unable to remove it.
+Trying to attack the amulet to free him caused a burst of energy in the </rich_text>
+      <rich_text link="node 17">stone</rich_text>
+      <rich_text>, releasing another ghost to attack us.</rich_text>
+    </node>
+  </node>
+  <node name="Locations" unique_id="10" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626978855" ts_lastsave="1626986345">
+    <node name="Arinsguard" unique_id="11" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626978870" ts_lastsave="1626978870"/>
+    <node name="Zoscara" unique_id="13" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626979876" ts_lastsave="1630611523">
+      <rich_text>Largest city in Elyria.
+
+City on the side of a valley.
+
+Built on two levels, upper and lower level are upper and lower class.
+
+White-grey stone castle in upper tier.
+
+Fast flowing waterfalls through city.
+
+To the west, a large river flows out towards the sea.
+
+Old city, existed a while.
+
+Contains Temple of Tier and Temple of Selune.
+
+Large sign saying ‘NO MAGIC’.
+
+No casting magic, but some magical items okay.
+
+In the temples, magical enchantments:
+Tier: No lying, stealing, invisibility
+Selune: Invisible ceiling
+
+Archives: Needs gold pass to enter from head scholar.
+Medium large, white stone building, next to Baron's castle.
+Guard - Fowlin
+
+Fancy jewelers - Pick and Roll</rich_text>
+    </node>
+    <node name="Near Blackwater Lake" unique_id="14" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626986345" ts_lastsave="1626987859">
+      <rich_text>An area of forest with dead trees (from some nacromacy magic).
+
+There's an underground cave.
+
+We found an altar and ritual dagger, and signs of necromantic magic.
+
+We found Undead </rich_text>
+      <rich_text link="node 6">Illara</rich_text>
+      <rich_text> outside, under a fallen tree.
+
+There was a silver ring from Trand.
+
+Found some stones in the cave, picked one up and got attacked by some ghost-like creature.
+
+Found a box with a carving of a spider and pearl.
+
+Note in box: “We couldn't supply the item you wanted, ask the Duchess, tell her ‘The eyes of fate see all’.”</rich_text>
+    </node>
+  </node>
+  <node name="NPCs" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626976920" ts_lastsave="1628024387">
+    <node name="Illara" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977839" ts_lastsave="1628020927">
+      <rich_text>Commoner in </rich_text>
+      <rich_text link="node 11">Arinsguard</rich_text>
+      <rich_text>. Young half-elf woman. Flowy dark hair. Actually spelled Elara.
+
+We found Illara's body in </rich_text>
+      <rich_text link="node 5">Nathaniel</rich_text>
+      <rich_text>'s shop?
+
+Following Nathaniel's </rich_text>
+      <rich_text link="node 15">directions</rich_text>
+      <rich_text>, we found her trapped under a tree in the woods? As an undead?
+We freed her and she attacked us.
+
+Had some sort of beauty amulet to hide her being undead?
+
+Amulet has some memories or essence of Illara. She thinks it is Ches 4th (15 days ago), no memory since then.
+
+Hypothesis: The amulet contains Illara's essence, projecting it onto the undead body.
+
+In the </rich_text>
+      <rich_text link="node 14">cave</rich_text>
+      <rich_text>, she recognised a silver ring from Trand.
+
+After removing the amulet from her for some time, she stopped being undead.
+
+We buried her (in a shallow grave) in the woods.</rich_text>
+    </node>
+    <node name="Katherine" unique_id="8" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977857" ts_lastsave="1628003312">
+      <rich_text>Noble in </rich_text>
+      <rich_text link="node 11">Arinsguard</rich_text>
+      <rich_text>.
+
+Found dead during </rich_text>
+      <rich_text link="node 4">party</rich_text>
+      <rich_text>.
+
+Sister of </rich_text>
+      <rich_text link="node 9">Skylar</rich_text>
+      <rich_text>.</rich_text>
+    </node>
+    <node name="Nathaniel" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977790" ts_lastsave="1626980066">
+      <rich_text>Commoner in </rich_text>
+      <rich_text link="node 11">Arinsguard</rich_text>
+      <rich_text>.
+
+Runs a shop in the town.
+
+We went into his shop, found </rich_text>
+      <rich_text link="node 6">Illara</rich_text>
+      <rich_text>'s body torn apart.
+
+Is some kind of werewolf  - we fought and captured him whilst working as </rich_text>
+      <rich_text link="node 4">guards</rich_text>
+      <rich_text>.</rich_text>
+    </node>
+    <node name="Percival" unique_id="7" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977848" ts_lastsave="1628022588">
+      <rich_text>Approached us while working as </rich_text>
+      <rich_text link="node 4">guards</rich_text>
+      <rich_text>. Suspected </rich_text>
+      <rich_text link="node 5">Nathaniel</rich_text>
+      <rich_text> of kidnapping </rich_text>
+      <rich_text link="node 6">Illara</rich_text>
+      <rich_text>.
+
+He apparently crafted a moonstone necklace for Illara, who he thought would leave Nathaniel for him.
+
+Has an encyclopedia of magic?</rich_text>
+    </node>
+    <node name="Skylar" unique_id="9" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977870" ts_lastsave="1628003336">
+      <rich_text>Noble in </rich_text>
+      <rich_text link="node 11">Arinsguard</rich_text>
+      <rich_text>.
+
+Hired us as </rich_text>
+      <rich_text link="node 4">guards</rich_text>
+      <rich_text>.
+
+Sister of </rich_text>
+      <rich_text link="node 8">Katherine</rich_text>
+      <rich_text>.
+Wife of </rich_text>
+      <rich_text link="node 12">William</rich_text>
+      <rich_text>.</rich_text>
+    </node>
+    <node name="William" unique_id="12" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626979296" ts_lastsave="1626980007">
+      <rich_text>Noble in </rich_text>
+      <rich_text link="node 11">Arinsguard</rich_text>
+      <rich_text>.
+
+Husband of </rich_text>
+      <rich_text link="node 9">Skylar</rich_text>
+      <rich_text>.</rich_text>
+    </node>
+    <node name="Harn" unique_id="19" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628021731" ts_lastsave="1628021752">
+      <rich_text>Stablemaster in </rich_text>
+      <rich_text link="node 11">Arinsguard</rich_text>
+      <rich_text>.
+
+Sold us two horses.</rich_text>
+    </node>
+    <node name="Baron Rickard" unique_id="20" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628023519" ts_lastsave="1628023548">
+      <rich_text>In charge of </rich_text>
+      <rich_text link="node 13">Zoscara</rich_text>
+      <rich_text>.
+
+Outlawed magic in Zoscara when he came into power ~4 years ago.</rich_text>
+    </node>
+    <node name="Lieutenant Grey" unique_id="21" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628023746" ts_lastsave="1628023746"/>
+    <node name="Narissia" unique_id="22" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628024387" ts_lastsave="1628024487">
+      <rich_text>Priest in Temple of Tier in </rich_text>
+      <rich_text link="node 13">Zoscara</rich_text>
+      <rich_text>.</rich_text>
+    </node>
+  </node>
+  <node name="Quests" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626976932" ts_lastsave="1630610191">
+    <node name="Guards for a Party" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977005" ts_lastsave="1628004643">
+      <rich_text>Ches 19th, Evening, Arinsguard
+
+</rich_text>
+      <rich_text link="node 9">Skylar</rich_text>
+      <rich_text> asked us to act as guards for House Trescott party.
+
+During the party, </rich_text>
+      <rich_text link="node 8">Katherine</rich_text>
+      <rich_text> was killed. Monster killed her, then ran away out window.
+
+Tracks followed to </rich_text>
+      <rich_text link="node 5">Nathaniel</rich_text>
+      <rich_text>'s shop. We fought and </rich_text>
+      <rich_text link="node 15">captured</rich_text>
+      <rich_text> Nathaniel.
+
+We questioned Nathanial in </rich_text>
+      <rich_text link="node 12">William</rich_text>
+      <rich_text>'s presence. He gave us a map to a location near Blackwater Lake.
+
+Following the map, we found an area of dead trees in the forest.
+We heard </rich_text>
+      <rich_text link="node 6">Illara</rich_text>
+      <rich_text> crying for help, trapped under a fallen tree. We freed her and she attacked us.
+
+
+He is due to be taken to </rich_text>
+      <rich_text link="node 13">Zoscara</rich_text>
+      <rich_text> to face justice.</rich_text>
+    </node>
+    <node name="A Captive's Request" unique_id="15" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628004074" ts_lastsave="1630610121">
+      <rich_text>Ches 19, Night, Arinsguard
+
+We questioned </rich_text>
+      <rich_text link="node 5">Nathanial</rich_text>
+      <rich_text> in </rich_text>
+      <rich_text link="node 12">William</rich_text>
+      <rich_text>'s presence. 
+
+He is due to be taken to </rich_text>
+      <rich_text link="node 13">Zoscara</rich_text>
+      <rich_text> to face justice for his alleged </rich_text>
+      <rich_text link="node 4">crimes</rich_text>
+      <rich_text>.
+
+Nathanial secretly gave us a map to a location </rich_text>
+      <rich_text link="node 14">near Blackwater Lake</rich_text>
+      <rich_text>.
+
+Following the map, we found an area of dead trees in the forest.
+We heard </rich_text>
+      <rich_text link="node 6">Illara</rich_text>
+      <rich_text> crying for help, trapped under a fallen tree. We freed her and she attacked us.
+
+Illara turned out to be some kind of undead creature. 
+
+It appears Illara has been dead (or no memory) for some time, since Ches 4 (15 days ago).
+She appears to have an amulet that projects her form onto an undead zombie body.
+
+We spent some time exploring a cave nearby, finding some treasure.
+
+Ches 20, Daytime
+
+We investigated the </rich_text>
+      <rich_text link="node 18">amulet</rich_text>
+      <rich_text> and </rich_text>
+      <rich_text link="node 17">stone</rich_text>
+      <rich_text>. Bonri wore the amulet, and we were attacked by a ghost again.
+
+Heading back to </rich_text>
+      <rich_text link="node 11">Arinsguard</rich_text>
+      <rich_text>, we found Nathaniel had been taken to </rich_text>
+      <rich_text link="node 13">Zoscara</rich_text>
+      <rich_text> by fast riding horses.
+
+We rode to </rich_text>
+      <rich_text link="node 13">Zoscara</rich_text>
+      <rich_text>.
+
+Ches 21, Afternoon
+
+Guards stopped to search carriages into city. They tried to take our magical items, we persuaded them not to.
+
+We went to the Temple of Tier, turns out our party member (Icarus) is a member. We slept overnight in the temple.
+
+Ches 22, Morning</rich_text>
+    </node>
+    <node name="Morning Exploration" unique_id="23" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1630610191" ts_lastsave="1630612331">
+      <rich_text>Ches 22, Morning
+
+Bonri and I decided to explore Zoscara together and investigate the </rich_text>
+      <rich_text link="node 18">necklace</rich_text>
+      <rich_text>.
+
+The necklace seemed to drain more life from Bonri overnight.
+
+We went to the archive in Zoscara. They refused to let us in without a permit.
+
+We sold our loot from the </rich_text>
+      <rich_text link="node 14">cave</rich_text>
+      <rich_text> from some gold.
+The jeweller mentioned Lady Tenika Greytales had had some earings stolen, we could investigate.
+
+Someone gave us a note secretly - “She will meet you, tonight, sunset, the well”</rich_text>
+    </node>
+  </node>
+</cherrytree>
