@@ -10,7 +10,7 @@ Jessie - Damiano
 </rich_text>
   </node>
   <node name="Items" unique_id="16" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628005515" ts_lastsave="1628017950">
-    <node name="Illaras Amulet" unique_id="18" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628017950" ts_lastsave="1633030014">
+    <node name="Illaras Amulet" unique_id="18" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628017950" ts_lastsave="1634238187">
       <rich_text>Found on </rich_text>
       <rich_text link="node 6">Illara</rich_text>
       <rich_text> when we found her </rich_text>
@@ -34,9 +34,11 @@ We cast identify on the amulet:
 
 The </rich_text>
       <rich_text link="node 25">Duchess</rich_text>
-      <rich_text> was able to easily remove the necklace from Bonri, unlike anyone else.</rich_text>
+      <rich_text> was able to easily remove the necklace from Bonri, unlike anyone else.
+
+In the hands of a great wizard, capable of ‘great things’.</rich_text>
     </node>
-    <node name="Magical Stone" unique_id="17" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628017713" ts_lastsave="1633034512">
+    <node name="Magical Stone" unique_id="17" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628017713" ts_lastsave="1634239834">
       <rich_text>Found one </rich_text>
       <rich_text link="node 14">near Blackwater Lake</rich_text>
       <rich_text>.
@@ -51,10 +53,18 @@ Is a kind of battery, drains life from stuff nearby. Actively and passively.
 Possible the cause of the death in the area.
 
 In flashback:
-Takes life, pulls away into other (astral) realm, potentially opening doorway for something to return?</rich_text>
+Takes life, pulls away into other (astral) realm, potentially opening doorway for something to return?
+
+The duchess told us these stones are lost souls, trying to get back to this world.
+
+
+There are multiple stones - a list of known locations:
+- Owned by the Baron, in the Archive
+- </rich_text>
+      <rich_text link="node 31">Daratrine</rich_text>
     </node>
   </node>
-  <node name="Locations" unique_id="10" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626978855" ts_lastsave="1633039180">
+  <node name="Locations" unique_id="10" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626978855" ts_lastsave="1634238680">
     <node name="Arinsguard" unique_id="11" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626978870" ts_lastsave="1626978870"/>
     <node name="Cave in Zoscara Woodland" unique_id="29" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1633032467" ts_lastsave="1633034406">
       <rich_text>An area a woods east of </rich_text>
@@ -96,7 +106,7 @@ Found a box with a carving of a spider and pearl.
 
 Note in box: “We couldn't supply the item you wanted, ask the Duchess, tell her ‘The eyes of fate see all’.”</rich_text>
     </node>
-    <node name="Zoscara" unique_id="13" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626979876" ts_lastsave="1631820278">
+    <node name="Zoscara" unique_id="13" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626979876" ts_lastsave="1634239773">
       <rich_text>Largest city in Elyria.
 
 City on the side of a valley.
@@ -124,6 +134,9 @@ Selune: Invisible ceiling
 Archives: Needs gold pass to enter from head scholar.
 Medium large, white stone building, next to Baron's castle.
 Guard - Fowlin
+A ‘prison’ for magical artefacts, not a ‘library’ - </rich_text>
+      <rich_text link="node 20">Baron Rickard</rich_text>
+      <rich_text>
 
 </rich_text>
       <rich_text scale="h3">Shops</rich_text>
@@ -135,21 +148,44 @@ Three major taverns.
 
 Taylors - (Middle tier) - ‘A Cut Above’</rich_text>
     </node>
+    <node name="Duchess lair" unique_id="32" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1634238693" ts_lastsave="1634238915">
+      <rich_text>A secret lair, owned/run by the </rich_text>
+      <rich_text link="node 25">Duchess</rich_text>
+      <rich_text>.
+
+Can be accessed using teleportation rings at special marked locations in </rich_text>
+      <rich_text link="node 13">Zoscara</rich_text>
+      <rich_text>.
+
+There seemed to be a party going on, with some important (and shady) people from the city.
+
+There's a laboratory with many enchanted items, run by Bornax.</rich_text>
+    </node>
   </node>
-  <node name="NPCs" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626976920" ts_lastsave="1633032826">
-    <node name="Baron Rickard" unique_id="20" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628023519" ts_lastsave="1631818359">
+  <node name="NPCs" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626976920" ts_lastsave="1634238699">
+    <node name="Baron Rickard" unique_id="20" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628023519" ts_lastsave="1634241127">
       <rich_text>In charge of </rich_text>
       <rich_text link="node 13">Zoscara</rich_text>
       <rich_text>.
 
+Gellir Rickard. Human, mid 30s.
+
 Outlawed magic in Zoscara when he came into power ~4 years ago.
 
+The </rich_text>
+      <rich_text link="node 25">Duchess</rich_text>
+      <rich_text> suggested the Baron might know more about the magical items, and </rich_text>
+      <rich_text link="node 31">Daratrine</rich_text>
+      <rich_text>.
+Maybe there's a link between this and the Baron's rules on magic.
 </rich_text>
     </node>
-    <node name="Caldurax" unique_id="27" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1633028279" ts_lastsave="1633028815">
+    <node name="Caldurax" unique_id="27" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1633028279" ts_lastsave="1634244911">
       <rich_text>Dragonborn.
 
-Laboratory operator, works for the </rich_text>
+</rich_text>
+      <rich_text link="node 32">Laboratory</rich_text>
+      <rich_text> operator, works for the </rich_text>
       <rich_text link="node 25">Duchess</rich_text>
       <rich_text>
 
@@ -225,7 +261,7 @@ Priest in Temple of Tier in </rich_text>
       <rich_text link="node 13">Zoscara</rich_text>
       <rich_text>.</rich_text>
     </node>
-    <node name="Nathaniel" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977790" ts_lastsave="1633027554">
+    <node name="Nathaniel" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977790" ts_lastsave="1634239512">
       <rich_text>Commoner in </rich_text>
       <rich_text link="node 11">Arinsguard</rich_text>
       <rich_text>.
@@ -244,7 +280,9 @@ Last we heard - held somewhere in the </rich_text>
       <rich_text link="node 20">Baron</rich_text>
       <rich_text>'s castle in </rich_text>
       <rich_text link="node 13">Zoscara</rich_text>
-      <rich_text>.</rich_text>
+      <rich_text>.
+
+Died in the Baron's custody (Ches 23).</rich_text>
     </node>
     <node name="Percival" unique_id="7" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626977848" ts_lastsave="1628022588">
       <rich_text>Approached us while working as </rich_text>
@@ -318,8 +356,30 @@ Husband of </rich_text>
       <rich_text link="node 9">Skylar</rich_text>
       <rich_text>.</rich_text>
     </node>
+    <node name="Riret Rimdar" unique_id="30" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1634236310" ts_lastsave="1634236387">
+      <rich_text>Enchanter/Priest, came to temple of Tier in </rich_text>
+      <rich_text link="node 13">Zoscara</rich_text>
+      <rich_text> to help Bonri remove the </rich_text>
+      <rich_text link="node 18">amulet</rich_text>
+      <rich_text>.</rich_text>
+    </node>
+    <node name="Daratrine" unique_id="31" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1634237950" ts_lastsave="1634238106">
+      <rich_text>Drow, former friend of the </rich_text>
+      <rich_text link="node 25">Duchess</rich_text>
+      <rich_text>.
+
+Famous for ‘rifting’ - transition between planes.
+
+Has something to do with the necklace/magical stones (along with the Duchess).
+
+We fought him (and ran away) in the </rich_text>
+      <rich_text link="node 29">cave near Zoscara</rich_text>
+      <rich_text> during our </rich_text>
+      <rich_text link="node 26">task</rich_text>
+      <rich_text> for the Duchess.</rich_text>
+    </node>
   </node>
-  <node name="Quests" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626976932" ts_lastsave="1633027769">
+  <node name="Quests" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1626976932" ts_lastsave="1634239312">
     <node name="A Captives Request" unique_id="15" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1628004074" ts_lastsave="1631819145">
       <rich_text>Ches 19, Night, Arinsguard
 
@@ -416,7 +476,7 @@ He is due to be taken to </rich_text>
       <rich_text link="node 13">Zoscara</rich_text>
       <rich_text> to face justice.</rich_text>
     </node>
-    <node name="Life in Zoscara" unique_id="24" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1631817439" ts_lastsave="1633027846">
+    <node name="Life in Zoscara" unique_id="24" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1631817439" ts_lastsave="1634238949">
       <rich_text>Ches 22, Morning
 
 We talked to </rich_text>
@@ -466,7 +526,9 @@ Saw suspicious elf/dwarf/halfling in bar. Dwarf woman headed off down alleyway, 
 
 Bonri and I headed out the bar and were attacked and abducted by the Duchess.
 
-Woke up at a large, secret party hosted by the Duchess.
+Woke up at a </rich_text>
+      <rich_text link="node 32">large, secret party</rich_text>
+      <rich_text> hosted by the Duchess.
 
 She wiped the memory of a guard we mentioned her name to earlier.
 
@@ -495,7 +557,7 @@ The jeweller mentioned Lady Tenika Greytales had had some earings stolen, we cou
 
 Someone gave us a note secretly - “She will meet you, tonight, sunset, the well”</rich_text>
     </node>
-    <node name="Terms and Conditions" unique_id="26" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1633027769" ts_lastsave="1633038347">
+    <node name="Terms and Conditions" unique_id="26" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1633027769" ts_lastsave="1634239166">
       <rich_text>Ches 22, Night
 
 </rich_text>
@@ -540,11 +602,59 @@ A halfling, possibly </rich_text>
       <rich_text>, was heading through the cave.
 
 Combat:
-At the end of the cave was Therian, and a group including a Drow (with a black stone). When the drow saw us, he teleported away.
+At the end of the cave was Therian, and a group including a </rich_text>
+      <rich_text link="node 31">Drow</rich_text>
+      <rich_text> (with a black stone). When the drow saw us, he teleported away.
 
 The drow released some red spiders to attack us. It didn't go well for us.
 
-Therian died.</rich_text>
+Therian died.
+
+Overnight, Icarus slipped away from the party.
+
+Ches 23, Morning
+
+We went back to meet the Duchess to collect our reward.
+
+She gave me information:
+Children disappearing in Zoscara - she didn't know why.
+Roscrow - being persued, hunted by someone? Presumably, that's why she was killed.
+
+She knew the </rich_text>
+      <rich_text link="node 31">Drow</rich_text>
+      <rich_text> at the </rich_text>
+      <rich_text link="node 29">cave</rich_text>
+      <rich_text> who attacked us, and asked us to let her know if we discovered any more information about him.</rich_text>
+    </node>
+    <node name="Bothering a Baron" unique_id="33" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1634239312" ts_lastsave="1634244338">
+      <rich_text>Ches 23, Late afternoon
+
+We went to meet the </rich_text>
+      <rich_text link="node 20">Baron</rich_text>
+      <rich_text> (following his invitation) in his castle to discuss the magical items we brought into the city.
+
+He told us </rich_text>
+      <rich_text link="node 5">Nathaniel</rich_text>
+      <rich_text> was killed by the guards.
+
+We were to a party/reception hosed by the Baron on Ches 25.
+
+He claimed the ban on magic was due to multiple ‘goings on’ - not a single concrete event.
+
+Bonri ‘aquired’ some notes written in a strange cypher on the Baron's desk.
+
+Icarus ‘aquired’ some letters of corresponance off the Baron's desk.
+
+I'm in a party of criminals here...
+
+The note was from someone calling themselves ‘Trianna’. The Baron was apparently aquiring a weapon from her in a couple of days.
+
+We went back to the Temple of Tier to meet the enchanter who offered to remove the </rich_text>
+      <rich_text link="node 18">amulet</rich_text>
+      <rich_text> from Bonri.
+Since the Duchess already removed the neckless, we had to ‘withold the truth’ a bit.
+
+In the evening, we went down to The Well to do some drinking/bonding.</rich_text>
     </node>
   </node>
 </cherrytree>
